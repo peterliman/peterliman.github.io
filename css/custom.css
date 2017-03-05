@@ -1,0 +1,86 @@
+.imagesize{
+	width:50%;
+}
+
+p{
+	font-size: 20px
+}
+
+.lessmargin{
+	margin-bottom: 0px
+}
+
+.evenlessmargin{
+	margin-bottom: -15px
+}
+
+.biggerfont{
+	font-size: 25px;
+	font-weight: bold
+}
+
+.bigfont{
+	font-size: 20px;
+}
+
+.iconblue{
+	color: blue;
+}
+
+.iconskyblue{
+	color:skyblue;
+}
+
+.icongreen{
+	color:green;
+}
+
+.iconmargin{
+	margin-right: 15px
+}
+.progress-bar{
+	height:100%;
+}
+
+body{
+	background-image:url("../img/background3.jpg");
+	background-size: cover;
+}
+
+strong {
+  color: #222324;
+}
+
+.navbar {
+  background: #e16879;
+}
+
+.card {
+  border-color: #ccc;
+}
+
+.card-title {
+  color: #e16879;
+  font-weight: 300;
+}
+
+.card-block small {
+  float: right;
+}
+
+.jumbotron{
+	background-image:url("../img/navbar.jpg");
+  background-size: cover;
+}
+
+.jumbotron h1 {
+	color:white;
+}
+
+.jumbotron p{
+	color:white;
+}
+
+.card{
+	border-radius: 15px;
+}
